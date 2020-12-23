@@ -16,4 +16,13 @@
 - Facebook: https://www.facebook.com/sinoyon780/
 - Instagram: https://www.instagram.com/shariful_islam.noyon/
 <br />
+
+![Shariful's github stats](https://github-readme-stats.vercel.app/api?username=sinoyon&show_icons=true&theme=radical)
+<br >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinoyon&layout=compact)](https://github.com/sinoyon/github-readme-stats)
  
+## My skills
+
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
