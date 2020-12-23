@@ -1,16 +1,19 @@
-### Hi there jytj 👋
+### Hi there, I'm Islam md Shariful👋
 
-<!--
-**sinoyon/sinoyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.imgur.com/mXEdCiL.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<em>
+
+- 🎓 I'm currently pursuing **Bachelors in Computer Science** from **International Islamic University Malaysia, IIUM**.
+- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Udemy](https://www.udemy.com/)
+- 🤝🏻 I'm open for collaborations in **Software engineering** and **software system development** and **Mobile APP Development** Domains.
+- 🎯 Goal (2020): **Contribute** openly to **software development** and **Mobile APP Development**
+
+### Connect with me:
+- Email: **srnoyon780@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/md-shariful-i-b82a62107/
+- Facebook: https://www.facebook.com/sinoyon780/
+- Instagram: https://www.instagram.com/shariful_islam.noyon/
+<br />
+ 
