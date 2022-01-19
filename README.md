@@ -7,8 +7,8 @@
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** from **International Islamic University Malaysia, IIUM**.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Udemy](https://www.udemy.com/)
-- 🤝🏻 I'm open for collaborations in **Software engineering** and **software system development** and **Mobile APP Development** Domains.
-- 🎯 Goal (2020): **Contribute** openly to **software development** and **Mobile APP Development**
+- 🤝🏻 I'm open for collaborations in **Data Science** and **machine learning ** and **data analyst** Domains.
+- 🎯 Goal (2020): **Contribute** openly to **data analyst** and **Data Science**
 
 ### Connect with me:
 - Email: **srnoyon780@gmail.com**
