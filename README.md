@@ -6,7 +6,7 @@
 <em>
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** from **International Islamic University Malaysia, IIUM**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Udemy](https://www.udemy.com/)
+- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/user/ca591d8b73ce0fb1bb89f780653f16f7),[Kaggle](https://www.kaggle.com/shariful07) and [Udemy](https://www.udemy.com/)
 - 🤝🏻 I'm open for collaborations in **Data Science** and **machine learning ** and **data analyst** Domains.
 - 🎯 Goal (2020): **Contribute** openly to **data analyst** and **Data Science**
 
