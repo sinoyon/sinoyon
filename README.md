@@ -5,7 +5,7 @@
 
 <em>
 <p align="left">
-   <a href="[https://www.kaggle.com/in/shariful07](https://www.kaggle.com/shariful07)">
+   <a href="https://www.kaggle.com/shariful07">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-shariful-blue?style=flat-square&logo=kaggle">
   </a> 
  <a href="https://www.linkedin.com/in/shariful07">
