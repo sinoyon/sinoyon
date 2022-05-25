@@ -4,7 +4,14 @@
  <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.imgur.com/mXEdCiL.gif" />
 
 <em>
-
+<p align="left">
+   <a href="[https://www.kaggle.com/in/shariful07](https://www.kaggle.com/shariful07)">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-shariful-blue?style=flat-square&logo=kaggle">
+  </a> 
+ <a href="https://www.linkedin.com/in/shariful07">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shariful07-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** from **International Islamic University Malaysia, IIUM**.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/user/ca591d8b73ce0fb1bb89f780653f16f7),[Kaggle](https://www.kaggle.com/shariful07) and [Udemy](https://www.udemy.com/)
 - 🤝🏻 I'm open for collaborations in **Data Science** and **machine learning ** and **data analyst** Domains.
