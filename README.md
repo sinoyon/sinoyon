@@ -10,6 +10,9 @@
  <a href="https://www.linkedin.com/in/shariful07">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shariful07-blue?style=flat-square&logo=linkedin">
   </a>
+  <a href="https://github.com/sinoyon">
+  <img src="https://komarev.com/ghpvc/?username=sinoyon&label=Profile%20views&color=0e75b6&style=flat" alt="sinoyon" />
+  </a>
 </p>
 <em>
 
