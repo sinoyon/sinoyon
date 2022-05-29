@@ -20,7 +20,7 @@
 <em>
 <br/>
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** from **International Islamic University Malaysia, IIUM**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/user/ca591d8b73ce0fb1bb89f780653f16f7),[Kaggle](https://www.kaggle.com/shariful07) and [Udemy](https://www.udemy.com/)
+- 🌱 I'm currently learning from <a href="https://www.coursera.org/user/ca591d8b73ce0fb1bb89f780653f16f7">Coursera</a>, <a href="https://www.kaggle.com/shariful07">Kaggle</a>, <a href="https://www.udemy.com/">Udemy</a>
 - 🤝🏻 I'm open for collaborations in **Data Science** and **machine learning ** and **data analyst** Domains.
 - 🎯 Goal (2022): **Contribute** openly to **data analyst** and **Data Science**
 
