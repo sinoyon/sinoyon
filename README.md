@@ -19,10 +19,10 @@
 </p>
 <em>
 <br/>
-- 🎓 I'm currently pursuing **Bachelors in Computer Science** from **International Islamic University Malaysia, IIUM**.
-- 🌱 I'm currently learning from <a href="https://www.coursera.org/user/ca591d8b73ce0fb1bb89f780653f16f7">Coursera</a>, <a href="https://www.kaggle.com/shariful07">Kaggle</a>, <a href="https://www.udemy.com/">Udemy</a>
-- 🤝🏻 I'm open for collaborations in **Data Science** and **machine learning ** and **data analyst** Domains.
-- 🎯 Goal (2022): **Contribute** openly to **data analyst** and **Data Science**
+- 🎓 I'm currently working at **Safran** (Safran Landing Systems, Malaysia)
+- 🤝🏻 I'm open for collaborations in **Data Science**, **machine learning** and **data analyst** Domains.
+- 🎯 Goal (2023): **Contribute** openly to **data analyst** and **Data Science**<br /><br />
+**🌱 I am confident that I will be able to contribute to Data Analyst team right away. As i am Currently doing my internship at Safran as a data analyst. My expertise in Data analysts, Python, SQL, Excel, Power BI, Machine learning, Deep learning, data engineer, combined with experience in data visualization and presenting to stakeholders. Also currently working on some project that analysis data and problems solve. I think I am more passionate about data analysts, and I would love to keep in touch to learn more about Data analyst amd Machine learning.**
 
 ### Connect with me:
 - Email: **srnoyon780@gmail.com**
