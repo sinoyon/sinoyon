@@ -18,6 +18,8 @@ I work across AI, data and software. Most of my projects start with messy data a
 - **Data analytics:** analysis, reporting and visualization with Power BI, Excel, SQL and Python
 - **Full-stack development:** web and mobile apps with Angular, Ionic, Laravel and PHP
 
+Kaggle Master · Google Certified · Based in Kuala Lumpur, Malaysia.
+
 Because I do all three, I can take a project from the first dataset to the final product, and I enjoy working directly with the people who will use it.
 
 ## Skills
@@ -31,6 +33,23 @@ Because I do all three, I can take a project from the first dataset to the final
 <p align="center">
   <img src="assets/workflow-v4.svg" alt="Workflow: collect, clean and analyze, model, visualize, build, deliver" width="100%" />
 </p>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/sinoyon/analystx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinoyon&repo=analystx&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="100%" alt="analystx" /></a></td>
+    <td width="50%"><a href="https://github.com/sinoyon/Loan-Approval-Prediction-Using-Machine-Learning-techniques"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinoyon&repo=Loan-Approval-Prediction-Using-Machine-Learning-techniques&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="100%" alt="Loan-Approval-Prediction-Using-Machine-Learning-techniques" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sinoyon/Text-Summarization-Using-Natural-Language-Processing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinoyon&repo=Text-Summarization-Using-Natural-Language-Processing&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="100%" alt="Text-Summarization-Using-Natural-Language-Processing" /></a></td>
+    <td width="50%"><a href="https://github.com/sinoyon/Hospital-Mortality-Quick-Exploratory-Data-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinoyon&repo=Hospital-Mortality-Quick-Exploratory-Data-Analysis&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="100%" alt="Hospital-Mortality-Quick-Exploratory-Data-Analysis" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sinoyon/Supermarket-stores-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinoyon&repo=Supermarket-stores-sales-analysis&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="100%" alt="Supermarket-stores-sales-analysis" /></a></td>
+    <td width="50%"><a href="https://github.com/sinoyon/football-match-probability-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sinoyon&repo=football-match-probability-prediction&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=8b949e" width="100%" alt="football-match-probability-prediction" /></a></td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
