@@ -12,11 +12,11 @@
       <circle r="6"><animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M100 100 H900"/></circle>
       <circle r="6"><animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M100 100 H900"/></circle>
     </g>
-    <g transform="translate(100 100)"><circle r="34" fill="#121a38" stroke="#00e5ff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" repeatCount="indefinite"/></circle><text y="9" font-size="26">🗄️</text></g>
-    <g transform="translate(300 100)"><circle r="34" fill="#121a38" stroke="#40c4ff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin=".5s" repeatCount="indefinite"/></circle><text y="9" font-size="26">🧹</text></g>
-    <g transform="translate(500 100)"><circle r="34" fill="#121a38" stroke="#7c4dff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="1s" repeatCount="indefinite"/></circle><text y="9" font-size="26">🧠</text></g>
-    <g transform="translate(700 100)"><circle r="34" fill="#121a38" stroke="#e040fb" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle><text y="9" font-size="26">📊</text></g>
-    <g transform="translate(900 100)"><circle r="34" fill="#121a38" stroke="#ff4081" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="2s" repeatCount="indefinite"/></circle><text y="9" font-size="26">💡</text></g>
+    <g transform="translate(100 100)"><circle r="34" fill="#121a38" stroke="#00e5ff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" repeatCount="indefinite"/></circle><text y="6" font-size="17" font-weight="700" fill="#e8ecff">01</text></g>
+    <g transform="translate(300 100)"><circle r="34" fill="#121a38" stroke="#40c4ff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin=".5s" repeatCount="indefinite"/></circle><text y="6" font-size="17" font-weight="700" fill="#e8ecff">02</text></g>
+    <g transform="translate(500 100)"><circle r="34" fill="#121a38" stroke="#7c4dff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="1s" repeatCount="indefinite"/></circle><text y="6" font-size="17" font-weight="700" fill="#e8ecff">03</text></g>
+    <g transform="translate(700 100)"><circle r="34" fill="#121a38" stroke="#e040fb" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle><text y="6" font-size="17" font-weight="700" fill="#e8ecff">04</text></g>
+    <g transform="translate(900 100)"><circle r="34" fill="#121a38" stroke="#ff4081" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="2s" repeatCount="indefinite"/></circle><text y="6" font-size="17" font-weight="700" fill="#e8ecff">05</text></g>
     <g fill="#e8ecff" font-size="16" font-weight="700">
       <text x="100" y="170">Collect</text><text x="300" y="170">Clean · SQL</text><text x="500" y="170">Model · Python</text><text x="700" y="170">Visualize · Power BI</text><text x="900" y="170">Decide</text>
     </g>
