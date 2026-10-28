@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="From raw data to decisions pipeline">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#ff4081"/></linearGradient>
+    <clipPath id="r"><rect width="1000" height="230" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)" font-family="'Segoe UI',Inter,Arial,sans-serif" text-anchor="middle">
+    <rect width="1000" height="230" fill="#0b1020"/>
+    <text x="500" y="38" fill="url(#g)" font-size="20" font-weight="800" letter-spacing="4">FROM RAW DATA TO DECISIONS</text>
+    <path d="M100 100 H900" stroke="#243056" stroke-width="3" stroke-dasharray="6 8" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-28" dur="1.2s" repeatCount="indefinite"/></path>
+    <g fill="url(#g)">
+      <circle r="6"><animateMotion dur="4s" repeatCount="indefinite" path="M100 100 H900"/></circle>
+      <circle r="6"><animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M100 100 H900"/></circle>
+      <circle r="6"><animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M100 100 H900"/></circle>
+    </g>
+    <g transform="translate(100 100)"><circle r="34" fill="#121a38" stroke="#00e5ff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" repeatCount="indefinite"/></circle><text y="9" font-size="26">🗄️</text></g>
+    <g transform="translate(300 100)"><circle r="34" fill="#121a38" stroke="#40c4ff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin=".5s" repeatCount="indefinite"/></circle><text y="9" font-size="26">🧹</text></g>
+    <g transform="translate(500 100)"><circle r="34" fill="#121a38" stroke="#7c4dff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="1s" repeatCount="indefinite"/></circle><text y="9" font-size="26">🧠</text></g>
+    <g transform="translate(700 100)"><circle r="34" fill="#121a38" stroke="#e040fb" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle><text y="9" font-size="26">📊</text></g>
+    <g transform="translate(900 100)"><circle r="34" fill="#121a38" stroke="#ff4081" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="2.5s" begin="2s" repeatCount="indefinite"/></circle><text y="9" font-size="26">💡</text></g>
+    <g fill="#e8ecff" font-size="16" font-weight="700">
+      <text x="100" y="170">Collect</text><text x="300" y="170">Clean · SQL</text><text x="500" y="170">Model · Python</text><text x="700" y="170">Visualize · Power BI</text><text x="900" y="170">Decide</text>
+    </g>
+    <g fill="#7d88b8" font-size="13">
+      <text x="100" y="192">raw data</text><text x="300" y="192">quality &amp; joins</text><text x="500" y="192">ML &amp; forecasts</text><text x="700" y="192">live dashboards</text><text x="900" y="192">real insight</text>
+    </g>
+  </g>
+</svg>
