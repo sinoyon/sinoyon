@@ -35,15 +35,10 @@ I work in **data analytics, business intelligence and software development**. I 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sinoyon&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=420" width="100%" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sinoyon&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=420&line_height=20" width="420" height="165" alt="GitHub stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoyon&layout=compact&theme=radical&hide_border=true&card_width=420" width="100%" alt="Top languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=sinoyon&theme=radical&hide_border=true" width="60%" alt="Contribution streak" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoyon&layout=compact&theme=radical&hide_border=true&card_width=420" width="420" height="165" alt="Top languages" />
     </td>
   </tr>
 </table>
