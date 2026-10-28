@@ -39,19 +39,23 @@
     </g>
 
     <g font-family="'Segoe UI',Inter,Arial,sans-serif">
-      <text x="60" y="135" font-size="58" font-weight="800" fill="url(#ac)" opacity="0">
+      <text x="60" y="100" font-size="20" fill="#9fb3ff" letter-spacing="6" opacity="0">
+        I'M
+        <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+      </text>
+      <text x="60" y="165" font-size="58" font-weight="800" fill="url(#ac)" opacity="0">
         MD Shariful Islam
         <animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/>
       </text>
-      <rect x="60" y="153" width="0" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" values="0;330" dur="1.6s" fill="freeze" begin=".4s"/></rect>
+      <rect x="60" y="182" width="0" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" values="0;330" dur="1.6s" fill="freeze" begin=".4s"/></rect>
 
       <!-- rotating roles -->
       <g font-size="24" fill="#e8ecff">
-        <text x="60" y="208" opacity="0">Data Analyst<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.28;.32;1" dur="12s" repeatCount="indefinite"/></text>
-        <text x="60" y="208" opacity="0">Business Intelligence Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.33;.37;.61;.65;1" dur="12s" repeatCount="indefinite"/></text>
-        <text x="60" y="208" opacity="0">Full-Stack Problem Solver<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.66;.7;.94;1" dur="12s" repeatCount="indefinite"/></text>
+        <text x="60" y="238" opacity="0">Data Analyst<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.28;.32;1" dur="12s" repeatCount="indefinite"/></text>
+        <text x="60" y="238" opacity="0">Business Intelligence Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.33;.37;.61;.65;1" dur="12s" repeatCount="indefinite"/></text>
+        <text x="60" y="238" opacity="0">Full-Stack Problem Solver<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.66;.7;.94;1" dur="12s" repeatCount="indefinite"/></text>
       </g>
-      <text x="60" y="255" font-size="15" fill="#7d88b8">Power BI · SQL · Python · Angular · Laravel — turning raw data into decisions</text>
+      <text x="60" y="285" font-size="15" fill="#7d88b8">Power BI · SQL · Python · Angular · Laravel — turning raw data into decisions</text>
     </g>
     <rect x="1.5" y="1.5" width="997" height="317" rx="21" fill="none" stroke="url(#ac)" stroke-width="2" stroke-dasharray="120 1200">
       <animate attributeName="stroke-dashoffset" from="0" to="-1320" dur="7s" repeatCount="indefinite"/>

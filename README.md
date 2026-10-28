@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-v2.svg" alt="MD Shariful Islam — Data Analyst & Developer" width="100%" />
+  <img src="assets/hero-v3.svg" alt="MD Shariful Islam — Data Analyst & Developer" width="100%" />
 </p>
 
 <p align="center">
