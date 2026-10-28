@@ -26,12 +26,12 @@
       <circle r="34" fill="#121a38" stroke="#7c4dff" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="3s" begin="1.0s" repeatCount="indefinite"/></circle>
       <text y="6" font-size="17" font-weight="700" fill="#e8ecff">03</text>
       <text y="68" font-size="16" font-weight="700" fill="#e8ecff">Model</text>
-      <text y="90" font-size="12.5" fill="#7d88b8">ML & AI systems</text></g>
+      <text y="90" font-size="12.5" fill="#7d88b8">ML &amp; AI systems</text></g>
     <g transform="translate(580 110)" opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="0.75s" fill="freeze"/>
       <circle r="34" fill="#121a38" stroke="#ff4081" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="3s" begin="1.5s" repeatCount="indefinite"/></circle>
       <text y="6" font-size="17" font-weight="700" fill="#e8ecff">04</text>
       <text y="68" font-size="16" font-weight="700" fill="#e8ecff">Build</text>
-      <text y="90" font-size="12.5" fill="#7d88b8">Web & mobile apps</text></g>
+      <text y="90" font-size="12.5" fill="#7d88b8">Web &amp; mobile apps</text></g>
     <g transform="translate(740 110)" opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="1.0s" fill="freeze"/>
       <circle r="34" fill="#121a38" stroke="#ff4081" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="3s" begin="2.0s" repeatCount="indefinite"/></circle>
       <text y="6" font-size="17" font-weight="700" fill="#e8ecff">05</text>
@@ -41,7 +41,7 @@
       <circle r="34" fill="#121a38" stroke="#ff4081" stroke-width="2"><animate attributeName="r" values="34;38;34" dur="3s" begin="2.5s" repeatCount="indefinite"/></circle>
       <text y="6" font-size="17" font-weight="700" fill="#e8ecff">06</text>
       <text y="68" font-size="16" font-weight="700" fill="#e8ecff">Deliver</text>
-      <text y="90" font-size="12.5" fill="#7d88b8">Deploy & support</text></g>
+      <text y="90" font-size="12.5" fill="#7d88b8">Deploy &amp; support</text></g>
     <g><rect x="60" y="244" width="240" height="6" rx="3" fill="#00e5ff" opacity=".85"><animate attributeName="opacity" values=".35;.95;.35" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
     <text x="180" y="274" font-size="12.5" font-weight="700" letter-spacing="3" fill="#00e5ff">DATA ANALYTICS</text></g>
     <g><rect x="350" y="244" width="140" height="6" rx="3" fill="#7c4dff" opacity=".85"><animate attributeName="opacity" values=".35;.95;.35" dur="3s" begin="0.8s" repeatCount="indefinite"/></rect>
