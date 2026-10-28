@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-v8.svg" alt="MD Shariful Islam — AI Engineer, Data Analyst & Full-Stack Developer" width="100%" />
+  <img src="assets/hero-v9.svg" alt="MD Shariful Islam — AI Engineer, Data Analyst & Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
