@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-v3.svg" alt="MD Shariful Islam — Data Analyst & Developer" width="100%" />
+  <img src="assets/hero-v4.svg" alt="MD Shariful Islam — Data Analyst & Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -11,17 +11,17 @@
 
 ## About
 
-I work in **data analytics, business intelligence and software development**. I turn raw data into clear insights and interactive dashboards, and I build practical web and application solutions.
+I'm an **AI engineer, data analyst and full-stack developer**. I don't stop at one layer: I take a problem from raw data, to a model, to a dashboard or application people can actually use.
 
-- Data analysis, reporting and visualization with Power BI, Excel, SQL and Python
-- Web and app development with Angular, Ionic, Laravel and PHP
-- Currently exploring machine learning and data modeling
-- Comfortable designing dashboards and working with stakeholders to support better decisions
+- **AI & ML:** machine learning, data modeling and applying them to real problems
+- **Data analytics:** analysis, reporting and visualization with Power BI, Excel, SQL and Python
+- **Full-stack development:** web and mobile apps with Angular, Ionic, Laravel and PHP
+- **End to end:** I work across all three, so I can build any type of solution and work directly with stakeholders to get it right
 
 ## Skills
 
 <p align="center">
-  <img src="assets/skills.svg" alt="Skills" width="100%" />
+  <img src="assets/skills-v2.svg" alt="Skills" width="100%" />
 </p>
 
 ## Workflow
@@ -54,7 +54,7 @@ I work in **data analytics, business intelligence and software development**. I 
 ## Let's Connect
 
 <p align="center">
-  Open to data analytics, BI and development opportunities.<br/>
+  Open to AI, data analytics and full-stack development opportunities.<br/>
   Feel free to reach out — I'm happy to talk about a project or a role.
 </p>
 
