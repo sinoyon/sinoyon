@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="End-to-end workflow across data analytics, AI engineering and full-stack development">
+<rect x=".5" y=".5" width="999" height="269" rx="16" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+<path d="M90 100H912" stroke="#30363d" stroke-width="2"/>
+<circle r="4" fill="#e6edf3"><animateMotion dur="8s" repeatCount="indefinite" path="M90 100H912" calcMode="spline" keyTimes="0;1" keySplines=".4 0 .2 1"/></circle>
+<g transform="translate(90 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.20s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">01</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Collect</text><text y="82" font-size="12" fill="#8b949e">Data sources, APIs</text></g>
+<g transform="translate(227 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.38s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">02</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Clean &amp; Analyze</text><text y="82" font-size="12" fill="#8b949e">SQL, Python, Excel</text></g>
+<g transform="translate(364 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.56s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#2dd4bf" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="3.0s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">03</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Visualize</text><text y="82" font-size="12" fill="#8b949e">Power BI, reports</text></g>
+<g transform="translate(501 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.74s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="4.5s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">04</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Model</text><text y="82" font-size="12" fill="#8b949e">ML and AI systems</text></g>
+<g transform="translate(638 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.92s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#f0883e" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="6.0s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">05</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Backend</text><text y="82" font-size="12" fill="#8b949e">Laravel, PHP, REST APIs</text></g>
+<g transform="translate(775 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.10s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#f0883e" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="7.5s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">06</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Frontend</text><text y="82" font-size="12" fill="#8b949e">Angular, Ionic apps</text></g>
+<g transform="translate(912 100)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.28s" fill="freeze"/>
+<circle r="30" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<circle r="30" fill="none" stroke="#f0883e" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.12;.2;1" dur="10.5s" begin="9.0s" repeatCount="indefinite"/></circle>
+<text y="5" font-size="15" font-weight="600" fill="#e6edf3">07</text>
+<text y="62" font-size="15" font-weight="600" fill="#e6edf3">Deploy</text><text y="82" font-size="12" fill="#8b949e">Release and support</text></g>
+<rect x="50" y="214" width="0" height="3" rx="1.5" fill="#2dd4bf"><animate attributeName="width" from="0" to="354" dur=".9s" begin="1.40s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/></rect><text x="227" y="242" font-size="12" font-weight="600" letter-spacing="2" fill="#2dd4bf">DATA ANALYTICS</text>
+<rect x="461" y="214" width="0" height="3" rx="1.5" fill="#58a6ff"><animate attributeName="width" from="0" to="80" dur=".9s" begin="1.65s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/></rect><text x="501" y="242" font-size="12" font-weight="600" letter-spacing="2" fill="#58a6ff">AI ENGINEERING</text>
+<rect x="598" y="214" width="0" height="3" rx="1.5" fill="#f0883e"><animate attributeName="width" from="0" to="354" dur=".9s" begin="1.90s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/></rect><text x="775" y="242" font-size="12" font-weight="600" letter-spacing="2" fill="#f0883e">FULL-STACK DEVELOPMENT</text>
+</g></svg>
