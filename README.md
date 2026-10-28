@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sinoyon"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-sinoyon-161b22?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sinoyon&label=Profile%20views&color=161b22&style=flat-square" />
   <a href="https://www.linkedin.com/in/shariful07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shariful07-161b22?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/shariful07"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-shariful07-161b22?style=flat-square&logo=kaggle&logoColor=white"></a>
   <a href="mailto:srnoyon780@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-srnoyon780@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=white"></a>
