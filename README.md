@@ -21,7 +21,7 @@ I'm an **AI engineer, data analyst and full-stack developer**. I don't stop at o
 ## Skills
 
 <p align="center">
-  <img src="assets/skills-v2.svg" alt="Skills" width="100%" />
+  <img src="assets/skills-v3.svg" alt="Skills" width="100%" />
 </p>
 
 ## Workflow
@@ -35,10 +35,10 @@ I'm an **AI engineer, data analyst and full-stack developer**. I don't stop at o
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sinoyon&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=420&line_height=20" width="420" height="165" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sinoyon&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=420&line_height=20" width="100%" alt="GitHub stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoyon&layout=compact&theme=radical&hide_border=true&card_width=420" width="420" height="165" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinoyon&layout=compact&theme=radical&hide_border=true&card_width=420" width="100%" alt="Top languages" />
     </td>
   </tr>
 </table>
