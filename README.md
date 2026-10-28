@@ -28,7 +28,7 @@ Because I do all three, I can take a project from the first dataset to the final
 ## How I Work
 
 <p align="center">
-  <img src="assets/workflow-v3.svg" alt="Workflow: collect, clean and analyze, visualize, model, backend, frontend, deploy" width="100%" />
+  <img src="assets/workflow-v4.svg" alt="Workflow: collect, clean and analyze, model, visualize, build, deliver" width="100%" />
 </p>
 
 ## GitHub Stats
