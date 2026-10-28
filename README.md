@@ -46,12 +46,8 @@ Because I do all three, I can take a project from the first dataset to the final
 
 ## Get in Touch
 
-<p align="center">
-  <img src="assets/contact-v1.svg" alt="Let's work together. Open to new opportunities." width="100%" />
-</p>
+Have a project, a role, or an idea? Send me a message.
 
-<p align="center">
-  <a href="mailto:srnoyon780@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email%20me-2dd4bf?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=2dd4bf"></a>
-  <a href="https://www.linkedin.com/in/shariful07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/shariful07"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-161b22?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-</p>
+<a href="mailto:srnoyon780@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-srnoyon780@gmail.com-2dd4bf?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=2dd4bf"></a>
+<a href="https://www.linkedin.com/in/shariful07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shariful07-161b22?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kaggle.com/shariful07"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-shariful07-161b22?style=for-the-badge&logo=kaggle&logoColor=white"></a>
