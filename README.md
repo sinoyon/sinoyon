@@ -47,7 +47,7 @@ Because I do all three, I can take a project from the first dataset to the final
 ## Get in Touch
 
 <p align="center">
-  If you have a project, a role, or just want to talk data and AI, I'd be glad to hear from you.
+  <img src="assets/contact-v1.svg" alt="Let's work together. Open to new opportunities." width="100%" />
 </p>
 
 <p align="center">
