@@ -30,14 +30,6 @@ I'm an **AI engineer, data analyst and full-stack developer**. I don't stop at o
   <img src="assets/pipeline.svg" alt="Collect, clean, model, visualize, decide" width="100%" />
 </p>
 
-## What I Build
-
-<p align="center">
-  <img src="assets/dashboard.svg" alt="Sample animated BI dashboard" width="100%" />
-</p>
-
-<p align="center"><sub>Illustrative dashboard with sample data — the kind of KPI, trend and target views I design in Power BI.</sub></p>
-
 ## GitHub Stats
 
 <table align="center">
