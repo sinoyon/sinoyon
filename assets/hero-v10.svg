@@ -4,9 +4,8 @@
 <rect x=".5" y=".5" width="999" height="299" rx="16" fill="url(#gl)"/>
 <g font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".1s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 8" to="0 0" dur=".8s" begin=".1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/>
-<rect x="60.5" y="60.5" width="86" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
-<g transform="translate(82 76.5)"><path d="M0 -8 Q1.4 -1.4 8 0 Q1.4 1.4 0 8 Q-1.4 1.4 -8 0 Q-1.4 -1.4 0 -8Z" fill="#2dd4bf"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.55;1" dur="3s" repeatCount="indefinite"/></path></g>
-<text x="98" y="82" font-size="15" font-weight="600" letter-spacing="2" fill="#e6edf3">I'M</text></g>
+<g transform="translate(68 84)"><path d="M0 -8 Q1.4 -1.4 8 0 Q1.4 1.4 0 8 Q-1.4 1.4 -8 0 Q-1.4 -1.4 0 -8Z" fill="#2dd4bf"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.55;1" dur="3s" repeatCount="indefinite"/></path></g>
+<text x="84" y="91" font-size="20" font-weight="500" letter-spacing="1" fill="#8b949e">I'M</text></g>
 <text x="60" y="150" font-size="56" font-weight="700" fill="#e6edf3" opacity="0">MD Shariful Islam<animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".25s" fill="freeze"/><animate attributeName="y" from="160" to="150" dur=".9s" begin=".25s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/></text>
 <rect x="60" y="168" width="0" height="4" rx="2" fill="#2dd4bf"><animate attributeName="width" from="0" to="64" dur=".8s" begin=".8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/></rect>
 <text x="60" y="214" font-size="24" font-weight="600" fill="#2dd4bf" opacity="0">AI Engineer<animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0.000;0.040;0.293;0.333;1.000" dur="12s" repeatCount="indefinite"/><animate attributeName="y" values="214;214;214;206;206" keyTimes="0.000;0.040;0.293;0.333;1.000" dur="12s" repeatCount="indefinite"/></text>
