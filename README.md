@@ -4,6 +4,7 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sinoyon&label=Profile%20views&color=161b22&style=flat-square" />
+  <a href="https://shariful.online/"><img alt="Website" src="https://img.shields.io/badge/Website-shariful.online-161b22?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shariful07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shariful07-161b22?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/shariful07"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-shariful07-161b22?style=flat-square&logo=kaggle&logoColor=white"></a>
   <a href="mailto:srnoyon780@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-srnoyon780@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -49,5 +50,6 @@ Because I do all three, I can take a project from the first dataset to the final
 Have a project, a role, or an idea? Send me a message.
 
 <a href="mailto:srnoyon780@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-srnoyon780@gmail.com-2dd4bf?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=2dd4bf"></a>
+<a href="https://shariful.online/"><img alt="Website" src="https://img.shields.io/badge/Website-shariful.online-161b22?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shariful07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shariful07-161b22?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/shariful07"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-shariful07-161b22?style=for-the-badge&logo=kaggle&logoColor=white"></a>
