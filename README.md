@@ -27,7 +27,7 @@ I'm an **AI engineer, data analyst and full-stack developer**. I don't stop at o
 ## Workflow
 
 <p align="center">
-  <img src="assets/pipeline.svg" alt="Collect, clean, model, visualize, decide" width="100%" />
+  <img src="assets/workflow.svg" alt="End-to-end workflow: collect, clean and analyze, model, build, visualize, deliver" width="100%" />
 </p>
 
 ## GitHub Stats
